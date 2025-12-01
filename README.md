@@ -8,8 +8,7 @@ O Easy Space é uma plataforma digital desenvolvida para facilitar a locação d
 
 O projeto foi construído inicialmente como uma aplicação web utilizando HTML, CSS e JavaScript, com prototipação realizada no Figma. O desenvolvimento considera a transformação digital, o uso consciente de recursos urbanos e a demanda crescente por espaços acessíveis e flexíveis.
 
-
-annotated-ArtigoEasySpace5D281%…
+---------------------------------------------------------------
 
 Contexto e Fundamentação
 
@@ -18,8 +17,7 @@ Ao mesmo tempo, há uma demanda em expansão por locais de curta duração para 
 
 O Easy Space foi projetado como uma resposta direta a esse cenário, oferecendo uma plataforma especializada que facilita e padroniza o processo de locação de forma rápida, transparente e focada no uso não residencial.
 
-
-annotated-ArtigoEasySpace5D281%…
+--------------------------------------------------------------
 
 Tecnologias Utilizadas
 
@@ -51,8 +49,7 @@ Validação preliminar: testes com usuários, avaliando clareza visual, navegabi
 
 As decisões técnicas foram guiadas por princípios de segurança, acessibilidade e escalabilidade.
 
-
-annotated-ArtigoEasySpace5D281%…
+----------------------------------------------------------
 
 Funcionalidades Implementadas
 Autenticação
@@ -123,8 +120,7 @@ Aderência às práticas de economia compartilhada e uso consciente de recursos 
 
 A versão atual serviu como prova de conceito funcional, mesmo sem a inclusão de espaços reais cadastrados.
 
-
-annotated-ArtigoEasySpace5D281%…
+---------------------------------------------------------------------------
 
 Próximas Etapas
 
